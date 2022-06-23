@@ -73,6 +73,7 @@
     <Compile Include="Assets\2_New_Generator\Script\Delaunay\ICoord.cs" />
     <Compile Include="Assets\2_New_Generator\Script\Generator.cs" />
     <Compile Include="Assets\Scripts\Players\SectionManager.cs" />
+    <Compile Include="Assets\Scripts\Static Tools\Actions.cs" />
     <Compile Include="Assets\Scripts\Players\TransportManager.cs" />
     <Compile Include="Assets\2_New_Generator\Script\Delaunay\EdgeReorderer.cs" />
     <Compile Include="Assets\2_New_Generator\Script\Delaunay\Voronoi.cs" />
@@ -100,7 +101,7 @@
     <Compile Include="Assets\2_New_Generator\Script\Maison.cs" />
     <Compile Include="Assets\2_New_Generator\Script\Delaunay\LRCollection.cs" />
     <Compile Include="Assets\2_New_Generator\Script\Geom\LineSegment.cs" />
-    <Compile Include="Assets\Scripts\Static Tools\Actions.cs" />
+    <Compile Include="Assets\Scripts\Static Tools\Mission.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\QuickOutline\Resources\Shaders\OutlineMask.shader" />
